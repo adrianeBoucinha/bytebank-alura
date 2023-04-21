@@ -14,11 +14,11 @@ Avançando com o JavaScript! 😍
 | -------------  | --- |
 | :sparkles: Nome        | **BYTEBANK - HTML, CSS e JAVASCRIPT**
 | :label: Tecnologias | HTML, CSS, JAVASCRIPT
-| :rocket: URL         | https://adrianeboucinha.github.io/mochila-de-viagem-alura/
+| :rocket: URL         | https://adrianeboucinha.github.io/bytebank-alura/
 | :fire: Curso     | https://cursos.alura.com.br/course/javascript-threads-requisicoes-simultaneas/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![https://adrianeboucinha.github.io/mochila-de-viagem-alura/#vitrinedev](https://adrianeboucinha.github.io/mochila-de-viagem-alura/#vitrinedev)
+![https://adrianeboucinha.github.io/bytebank-alura/#vitrinedev](https://adrianeboucinha.github.io/bytebank-alura/#vitrinedev)
 
 
 <p align="center"> <img src="https://imgur.com/1mc1qX7.png" alt="JavaScript: trabalhando com threads para requisições simultâneas"></p>
